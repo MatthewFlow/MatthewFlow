@@ -23,16 +23,12 @@ I enjoy exploring modern development tools, working on component-based systems, 
 
 #### Backend & API
 - .NET Core
-- RESTful API
 - Firebase (Auth, Firestore, Storage)
 
 #### Tools & DevOps
 - Vite
 - ESLint (ESNext)
 - Git & GitHub
-- Figma (UI prototyping)
-- Markdown, PDF generators
 
 #### Other
 - Flutter (mobile & desktop experiments)
-- AI-enhanced logic (document parsing, auto-fill)
