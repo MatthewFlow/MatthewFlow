@@ -19,7 +19,7 @@ I enjoy exploring modern development tools, working on component-based systems, 
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Zustand, Framer Motion
+- Zustand
 
 #### Backend & API
 - .NET Core
