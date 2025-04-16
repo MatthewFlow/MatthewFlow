@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Matthew Flow banner" style="width: 100%; height: auto; object-fit: cover; object-position: center;" />
+  <img src="./banner2.png" alt="Matthew Flow banner" style="width: 100%; height: auto; object-fit: cover; object-position: center;" />
 </p>
 
 ---
